@@ -1,6 +1,8 @@
 using CouponAPI;
 using CouponAPI.Data;
 using CouponAPI.Endpoints;
+using CouponAPI.Repository;
+using CouponAPI.Repository.IRepository;
 using FluentValidation;
 using Microsoft.EntityFrameworkCore;
 
@@ -8,6 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddScoped<ICouponRepository, CouponRepository>();
 builder.Services.AddDbContext<ApplicationDbContext>(options => 
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddHealthChecks();
