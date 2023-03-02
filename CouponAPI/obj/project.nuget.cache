@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6xGADWWIHI+M88UD8UrZ8312ImUmieOekYsJF2h9qQHUWFVuOVxVRRCpWWaanNcJ17X2VDc9q/H6sI8PA6c7LA==",
+  "dgSpecHash": "tSD4XLqIKYus7A8zlVlgfEexTCWyYRCTP2y3H3jAeEwTdXyxeMAnAiG8S13oY8nXyOY7faP8R0PUy9gNMu65Pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ewerton\\source\\repos\\MinimalAPIDemo\\MagicVilla_CouponAPI\\CouponAPI.csproj",
+  "projectFilePath": "C:\\Users\\Ewerton\\source\\repos\\MinimalAPIDemo\\CouponAPI\\CouponAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ewerton\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Ewerton\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

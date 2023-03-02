@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ewerton\\source\\repos\\MinimalAPIDemo\\MagicVilla_CouponAPI\\CouponAPI.csproj": {}
+    "C:\\Users\\Ewerton\\source\\repos\\MinimalAPIDemo\\CouponAPI\\CouponAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ewerton\\source\\repos\\MinimalAPIDemo\\MagicVilla_CouponAPI\\CouponAPI.csproj": {
+    "C:\\Users\\Ewerton\\source\\repos\\MinimalAPIDemo\\CouponAPI\\CouponAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ewerton\\source\\repos\\MinimalAPIDemo\\MagicVilla_CouponAPI\\CouponAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Ewerton\\source\\repos\\MinimalAPIDemo\\CouponAPI\\CouponAPI.csproj",
         "projectName": "CouponAPI",
-        "projectPath": "C:\\Users\\Ewerton\\source\\repos\\MinimalAPIDemo\\MagicVilla_CouponAPI\\CouponAPI.csproj",
+        "projectPath": "C:\\Users\\Ewerton\\source\\repos\\MinimalAPIDemo\\CouponAPI\\CouponAPI.csproj",
         "packagesPath": "C:\\Users\\Ewerton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ewerton\\source\\repos\\MinimalAPIDemo\\MagicVilla_CouponAPI\\obj\\",
+        "outputPath": "C:\\Users\\Ewerton\\source\\repos\\MinimalAPIDemo\\CouponAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ewerton\\AppData\\Roaming\\NuGet\\NuGet.Config",
