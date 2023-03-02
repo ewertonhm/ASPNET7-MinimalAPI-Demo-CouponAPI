@@ -1,3 +1,9 @@
+CouponAPI/bin
 CouponAPI/bin/
+CouponAPI/bin/*
 CouponAPI/obj/
+CouponAPI/obj/*
+CouponAPI/obj
+.vs/
+.vs/*
 .vs
