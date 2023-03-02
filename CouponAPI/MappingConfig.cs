@@ -9,6 +9,8 @@ namespace CouponAPI
         public MappingConfig() 
         {
             CreateMap<Coupon, CouponCreateDTO>().ReverseMap();
+            CreateMap<Coupon, CouponUpdateDTO>().ReverseMap();
+            CreateMap<Coupon, CouponDeleteDTO>().ReverseMap();
             CreateMap<Coupon, CouponDTO>().ReverseMap();
         }
     }
